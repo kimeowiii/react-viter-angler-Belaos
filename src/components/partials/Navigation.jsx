@@ -77,7 +77,7 @@ const Navigation = () => {
             Tips
           </a>
           <a
-            href="#Contacts"
+            href="#contact"
             className="hover:text-blue-200 transition"
             onClick={() => setIsMenuOpen(false)}
           >
